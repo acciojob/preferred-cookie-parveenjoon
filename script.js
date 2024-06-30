@@ -1,4 +1,3 @@
-//your JS code here. If required.
 document.addEventListener('DOMContentLoaded', function() {
   const preferencesForm = document.getElementById('preferencesForm');
   const fontSizeInput = document.getElementById('fontsize');
